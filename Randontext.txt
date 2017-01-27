@@ -1,1 +1,3 @@
 Hi this is ANuj ..this is my first text file for GIT
+
+selct * from emp where name ="Anuj";
