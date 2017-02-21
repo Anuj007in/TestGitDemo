@@ -1,4 +1,4 @@
-Anuj test 19 Feb 2017
+Anuj test 21st Feb 2017
 This document helps to install GIT and clone the folder from GIT Hub.
 ---------------------------------------------------------------------
 1. Step Download GIT from
