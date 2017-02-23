@@ -3,7 +3,10 @@ package HelloTest;
 public class TestDemo {
 	public static void main(String[] args)
 	{
-		System.out.print("Hi This is DevOps Demo--- CI- test 2 false2a");
+		System.out.print("Hi This is DevOps Demo--- CI- test 2 false2a")
+	}
+
+}
 		
 		/*@Listeners(UtilitiesHelper.IListner.class)
 		public class TestCase_Login {
@@ -24,6 +27,4 @@ public class TestDemo {
 					
 				}	
 			}*/
-	}
 
-}
