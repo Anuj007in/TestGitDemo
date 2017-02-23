@@ -13,7 +13,7 @@ public class TestDemo {
 	      //y = in.nextInt();
 	      x = 10;
 	      y = 20;
-	      z = x + y
+	      z = x + y;;2
 	      System.out.println("Sum of entered integers = "+z);
 		
 	}
