@@ -55,9 +55,9 @@
         <antcall target="build"/>
     </target>
     <target name="TestDemo">
-        <!--java classname="HelloTest.TestDemo" failonerror="true" fork="yes">
+        <java classname="HelloTest.TestDemo" failonerror="true" fork="yes">
             <classpath refid="run.TestDemo.classpath"/>
-        </java-->
+        </java>
     	
     	<javac destdir="${build.outputDir}" nowarn="true" debug="true" optimize="false" deprecation="true" verbose="false" fork="false">
     				<src>
